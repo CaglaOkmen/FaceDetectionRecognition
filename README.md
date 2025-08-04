@@ -76,9 +76,4 @@ yolov8n.pt nin FPS değerin 20 lerde iken kendi eğittiğim modelin FPS değeri 
 <img src="https://github.com/user-attachments/assets/85b30208-b6a2-4b67-bcec-e1233647e54f" alt="confusion_matrix" width="255" />
 <img src="https://github.com/user-attachments/assets/b09ab62e-6686-4ff3-9326-87c673f29a86" alt="val_batch0_pred" width="200" />
 
-### Gerçek Deneme Sonuçları
-<img src="https://github.com/user-attachments/assets/be38c5e9-1344-40c5-8464-e2de8082f6fc" alt="sonuc1" width="310" />
-<img src="https://github.com/user-attachments/assets/a6ab1a59-2952-4bf2-a4cc-150a9b138b3e" alt="sonuc2" width="285" />
-
-
 ---
